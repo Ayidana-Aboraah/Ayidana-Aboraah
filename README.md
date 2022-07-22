@@ -1,4 +1,7 @@
 ### Hi there 👋
+The name is actually RedstoneAGX, but there's a typo in my name.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RestoneAGX &theme=onedark&show_icons=true)
 
 <!--
 **RestoneAGX/RestoneAGX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
